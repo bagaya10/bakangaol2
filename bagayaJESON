@@ -1,0 +1,88 @@
+	{"Name":"test_shemas",
+	"title": "test SHEMAS"
+	"description:"a test shemas "
+	
+	"fieds": [
+	
+	{"Name":HDI_ranking",
+	
+	"type":"integer",
+	"description":"rang de chaque pays en fonction de l' indice de develloppement humain"},
+	
+	{"Name":"COUNTRY",
+	"type":"string",
+	"description":"pays"
+	},
+	
+	{"Name":""Human_development_index_(HDI)_value_2005"
+",
+	"type":"number",
+	"description":"indice de developpement humain"
+	},
+	
+	{"Name":"Life_expectancy _at birth_(years)_2005",
+	"type":"number",
+	"description":"experience_de_viea la naissance une des composantes de indice de develloppement humain"
+	},
+	
+    {"Name":"Adult_literacy_rate",
+	"type":"number",
+	"description":"taux aphebisation des aldultes calculer  composantes du volet educative"
+	},
+	
+    {"Name":"Adult literacy rate(% aged 15 and above)1995-2005b",
+	"type":"string",
+	"description":"taux aphebisation des aldultes calculer  age de 15 ans et plus sur la periode 1995 at 2005 composantes du volet educative"
+	},
+	
+	{"Name":"Combined gross enrolment ratio for primary, secondary and tertiary education(%)2005",
+	"type":"number",
+	"description":"taux brut de scolarisation  du primaire ,secondaire et le superieur"
+	},
+	
+	{"Name":"GDP per capita(PPP US$)2005",
+	"type":"number",
+	"description":"le produit interieur brut par capital annee courant de 2005"
+	},
+	
+	{"Name":"Life expectancy index",
+	"type":"number",
+	"description":"indice esperiences de vie composante de IDH"
+	},
+	
+	{"Name":"Education index",
+	"type":"number",
+	"description":"indice du volet scolaire dans le calcul IDH"
+	},
+	
+	{"Name":"GDP index",
+	"type":"number",
+	"description":"COMPOSANTE DU NIVEAU DE REVENU MESURER PAR LE PIB"
+	},
+	
+	{"Name":"GDP index",
+	"type":"number",
+	"description":"COMPOSANTE DU NIVEAU DE REVENU MESURER PAR LE PIB"
+	},
+	
+	{"Name":"GDP per capita (PPP US$) rank minus HDI rankc",
+	"type":"number",
+	"description":"difference entre le pib par capital et indice de developpement humaine en terme de rang"
+	},
+	
+	],
+	"missingValues":["NaN","..","(.)"]
+	} 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
